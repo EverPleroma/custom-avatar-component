@@ -1,6 +1,6 @@
 {
   "name": "react-custom-avatar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component for generating unique, customizable avatars",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
