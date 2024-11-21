@@ -12,7 +12,7 @@ npm install custom-avatar-component
 ## Usage
 1. Import custom element
 ```
-import Avatar from 'custom-avatar-component';
+import {Avatar} from 'custom-avatar-component';
 ```
 
 2. Start using
