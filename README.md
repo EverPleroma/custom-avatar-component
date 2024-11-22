@@ -3,6 +3,7 @@ A customizable avatar component for generating avatars.
 
 ## Installation
 Install the component using <a href="https://www.npmjs.com/package/custom-avatar-component">NPM</a>
+or <a href="https://github.com/EverPleroma/custom-avatar-component">Github</a>
 
 ```
 npm install custom-avatar-component
@@ -124,35 +125,34 @@ npm run test
 
 ## Contributing
 
-Contributions are welcome! Please submit pull requests to this repository.
-Fork the repo, then clone it using the following command (remember to replace the url with the url from your forked repo)
+1. Fork the repo, then clone it using the following command (remember to replace the url with the url from your forked repo)
 
 ```
-git clone (url from your forked repo)
+git clone https://github.com/EverPleroma/custom-avatar-component
 ```
 
-Go to project folder
+2. Go to project folder
 
 ```
 cd custom-avatar-component
 ```
 
-Create your feature branch:
+3. Create your feature branch:
 ```
 git checkout -b my-new-feature
 ```
 
-Commit your changes: 
+4. Commit your changes: 
 ```
 git commit -m 'Add some feature' 
 ```
 
-Push to the branch: 
+5. Push to the branch: 
 ```
 git push origin my-new-feature
 ```
 
-Submit a pull request :D
+6. Submit a pull request :D
 
 ## License
 
